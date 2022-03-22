@@ -5,7 +5,6 @@ using namespace std;
 #define FOD(i,r,l) for(int i = r; i >= l; --i)
 #define task "a"
 
-int a,b;
 int main (){
     ios_base::sync_with_stdio(0);
     cin.tie(0);
@@ -13,7 +12,6 @@ int main (){
 //    freopen("a.inp", "r", stdin);
 //    freopen("a.out", "w", stdout);
 //    #endif // nhatminh
-    cin >> a >> b;
-    cout << a+b;
+    cout << "hello world";
     return 0;
 }
